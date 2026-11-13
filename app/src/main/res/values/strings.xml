@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">书籍信息管理</string>
+    <string name="student_title">张恩鸣2024110546</string>
+    <string name="detail_title">书籍详情</string>
+</resources>

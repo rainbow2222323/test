@@ -1,0 +1,6 @@
+<resources>
+    <!-- 基础应用主题（浅色） -->
+    <style name="Base.Theme.Zhangenming" parent="Theme.Material3.DayNight.NoActionBar" />
+
+    <style name="Theme.Zhangenming" parent="Base.Theme.Zhangenming" />
+</resources>
